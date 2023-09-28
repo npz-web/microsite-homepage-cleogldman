@@ -1,1 +1,27 @@
 /* your styles will go here!! */
+
+img {
+    max-width: 100%;
+}
+
+h1{
+    color: #000;
+    font-family: Monterrat;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.description{
+    width: 442px;
+    height: 927px;
+    flex-shrink: 0;
+    color: #000;
+    text-align: right;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
