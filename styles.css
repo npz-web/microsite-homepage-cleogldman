@@ -1,20 +1,24 @@
 /* your styles will go here!! */
 
+body {
+    margin: 0;
+}
+
 img {
     max-width: 25%;
     max-height: 25%;
     margin: 20px;
+    orientation: horizontal;
 }
 
 nav a{
     color:#000;
+    text-align: right; 
     text-decoration: none;
-    font: monterrat;
+    font: Monterrat;
     padding: 10px;
     margin: 20px;
     font-size: 20px;
-    text-align: right;
-
 }
 
 h1{
@@ -27,7 +31,7 @@ h1{
 }
 
 .description{
-    width: 442px;
+    width: 600px;
     height: 927px;
     flex-shrink: 0;
     color: #000;
