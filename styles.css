@@ -11,9 +11,15 @@ img {
     image-orientation: horizontal;
 }
 
+header {
+    display: flex;
+    justify-content: right;
+    font-size: 45px;
+    align-items: center;
+}
+
 nav a{
-    color:#000;
-    text-align: right; 
+    color:#000; 
     text-decoration: none;
     font: Monterrat;
     padding: 10px;
@@ -41,5 +47,5 @@ h1{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    text-align: right;
+    justify-content: right;
 }
