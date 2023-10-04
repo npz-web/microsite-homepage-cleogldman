@@ -50,3 +50,16 @@ h1{
     line-height: normal;
     justify-content: right;
 }
+.hero-section{
+    display: flex;
+    justify-content: space-around;
+}
+.hero-section img{
+    transform: rotate(90deg);
+}
+.hero-section .bg-img{
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+    background-image: url("/9C84C301-D781-4A87-9070-614C498AAE4A_1_105_c.jpeg");
+}
