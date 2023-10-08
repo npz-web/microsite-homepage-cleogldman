@@ -27,6 +27,9 @@ nav a{
     line-height: normal;
     text-decoration: none;
     width: 396px;
+    margin-right: .50in;
+    margin-left: .25in;
+
 }
 .homepage-link{
     color: #000;
@@ -72,6 +75,7 @@ h1{
     line-height: normal;
     width: 649px;
     color: #000;
+    margin-right: .5in;
 }
 .hero-section{
     display: flex;
