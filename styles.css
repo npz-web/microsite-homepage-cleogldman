@@ -73,9 +73,11 @@ h2{
     z-index: -1;
 }
 
-.main-photo {
-    overflow: auto;
-    white-space: nowrap;
+main {
+    background: url(IMG_0316.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .main-photo img {
