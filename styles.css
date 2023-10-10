@@ -67,6 +67,7 @@ h2{
     line-height: normal;
     width: 45%;
     max-width: 640px;
+    max-height: 50%;
     position: absolute;
     bottom: 0%;
 }
