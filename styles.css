@@ -20,6 +20,7 @@ nav {
     display: flex;
     justify-content: flex-end;
     margin-right: 3%;
+    
 }
 
 nav a{
@@ -88,9 +89,4 @@ main {
 .main-photo img {
     width: 100%;
     height: auto;
-}
-
-footer {
-    display: flex;
-    justify-content: center;
 }
