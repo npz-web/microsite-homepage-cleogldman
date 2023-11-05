@@ -66,14 +66,17 @@ h2{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    max-width: 900px;
+    max-width: 2000px;
     flex-shrink: 0;
     align-self: center;
     position: absolute;
-    top: 35%;
+    top: 15%;
     left: 30%;
     bottom: 55%;
     right: 30%;
+    width: 772px;
+    height: 399px;
+    flex-shrink: 0;
 }
 
 
@@ -84,11 +87,12 @@ main {
    
 }
 .banner{ background: url(IMG_3746.jpg);
-    width: 100%;
-    height: 900px;
     flex-shrink: 0;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 1440px;
+    height: 876px;
+    flex-shrink: 0;
 }
 
 .main-photo img {
