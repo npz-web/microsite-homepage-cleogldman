@@ -70,10 +70,10 @@ h2{
     flex-shrink: 0;
     align-self: center;
     position: absolute;
-    width: 1220px;
+    width: 800px;
     height: 725px;
     flex-shrink: 0;
-    margin-top: 715px;
+    margin-top: 350px;
 }
 
 
@@ -83,11 +83,11 @@ main {
     position: relative;
    
 }
-.banner{ background: url(Untitled\ -\ October\ 24\,\ 2023\ 17.29.jpg);
+.banner{ background: url(Screenshot\ 2023-11-05\ at\ 4.47.25\ PM.png);
     flex-shrink: 0;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 950px;
     flex-shrink: 0;
 }
 
