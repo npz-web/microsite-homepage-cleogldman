@@ -59,24 +59,21 @@ h1 {
 } 
 
 h2{
-    color: white;
+    color: #000;
     text-align: center;
     font-family: Montserrat;
     font-size: 48px;
     font-style: normal;
-    font-weight: 800;
+    font-weight: 500;
     line-height: normal;
     max-width: 2000px;
     flex-shrink: 0;
     align-self: center;
     position: absolute;
-    top: 15%;
-    left: 30%;
-    bottom: 55%;
-    right: 30%;
-    width: 772px;
-    height: 399px;
+    width: 1220px;
+    height: 725px;
     flex-shrink: 0;
+    margin-top: 635px;
 }
 
 
@@ -86,12 +83,12 @@ main {
     position: relative;
    
 }
-.banner{ background: url(IMG_3746.jpg);
+.banner{ background: url(Untitled\ -\ October\ 24\,\ 2023\ 17.29.jpg);
     flex-shrink: 0;
     background-repeat: no-repeat;
     background-size: cover;
     width: 1440px;
-    height: 876px;
+    height: 615px;
     flex-shrink: 0;
 }
 
