@@ -118,6 +118,7 @@ h4{
     font-weight: 700;
     line-height: normal;
     padding-left: 40px;
+    margin-bottom: 0;
 }
 
 .physcialdescription{
@@ -131,6 +132,8 @@ h5{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 .physicalbenefits{
     display: flex;
@@ -146,4 +149,50 @@ h6{
     line-height: normal;
     padding-left: 50px;
     padding-right: 50px;
+    margin-top: 0%;
+}
+
+h7{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 40px;
+    margin-bottom: 0;
+    margin-top: 50px;
+}
+
+.emotionaldescription{
+    display: flex;
+    justify-content: center;
+}
+
+h8{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.emotionalbenefits{
+    display: flex;
+    justify-content: center;
+}
+
+h9{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 0%;
+    margin-bottom: 5%; 
 }
