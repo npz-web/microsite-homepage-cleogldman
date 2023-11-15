@@ -119,6 +119,11 @@ h4{
     line-height: normal;
     padding-left: 40px;
 }
+
+.physcialdescription{
+    display: flex;
+    justify-content: center;
+}
 h5{
     color: #000;
     font-family: Montserrat;
@@ -126,6 +131,10 @@ h5{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+.physicalbenefits{
+    display: flex;
+    justify-content: center;
 }
 
 h6{
